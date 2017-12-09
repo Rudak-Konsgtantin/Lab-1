@@ -1,0 +1,19 @@
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\bin\Debug\game1.exe.config
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\obj\Debug\game1.csprojResolveAssemblyReference.cache
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\obj\Debug\game1.Form1.resources
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\obj\Debug\game1.Properties.Resources.resources
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\obj\Debug\game1.csproj.GenerateResource.Cache
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\bin\Debug\game1.exe
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\bin\Debug\game1.pdb
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\obj\Debug\game1.exe
+c:\users\my-pc\documents\visual studio 2015\Projects\game1\game1\obj\Debug\game1.pdb
+E:\game1\game1\bin\Debug\game1.exe.config
+E:\game1\game1\obj\Debug\game1.exe
+E:\game1\game1\obj\Debug\game1.pdb
+E:\game1\game1\bin\Debug\game1.exe
+E:\game1\game1\bin\Debug\game1.pdb
+E:\game1\game1\obj\Debug\game1.csprojResolveAssemblyReference.cache
+E:\game1\game1\obj\Debug\game1.Form1.resources
+E:\game1\game1\obj\Debug\game1.Properties.Resources.resources
+E:\game1\game1\obj\Debug\game1.csproj.GenerateResource.Cache
+E:\game1\game1\obj\Debug\game1.winForm.resources
